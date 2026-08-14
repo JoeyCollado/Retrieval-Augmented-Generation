@@ -1,0 +1,1 @@
+# converts english passages/words = into its associated vector representation or mathematical representation

@@ -1,0 +1,1 @@
+# chunking = is the process of breaking down bigger documents into smaller chunks

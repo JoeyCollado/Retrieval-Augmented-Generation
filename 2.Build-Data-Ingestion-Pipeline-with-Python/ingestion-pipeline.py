@@ -1,0 +1,1 @@
+# here we write all the code to load all the source doucments and then chunk it up and embed the chunks and finally store in vector database
